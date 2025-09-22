@@ -1,4 +1,3 @@
-//high level thinking (first solve for the high and then think about lower level)
 public class PrintDecreasing {
    public static void printDecreasingnum(int num){
        if(num==0){
